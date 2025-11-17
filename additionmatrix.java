@@ -53,7 +53,7 @@ public class additionmatrix {
 					System.out.println();
 
 				}
-                  System.out.println("addition");
+                  System.out.println("addition of matrix's:-");
 				int add_metrix[][]=new int[row][col];
 				
 				for(int i=0;i<row;i++)
